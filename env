@@ -1,0 +1,6 @@
+D15C0RD_T0K3N= 					# Discord Bot Token
+LOGGING_WEBHOOK_URL= 				# OverAll Bot Logging Webhook URL
+BOT_OWNER_ID= 					# Owner of the bot (eg. server owner) 
+TRUSTED_GUILDS= 				# put in the server id of the servers you want to be bale to use remote commands (eg. control the other server with owner commands like executecmd)
+CMD_PREFIX=! 					# Command prefix 
+WHITELISTED_BOTS=  				# Trusted bots (eg. 1089040335381422150, 234234234234)
