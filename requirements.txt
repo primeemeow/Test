@@ -5,4 +5,3 @@ PyNaCl
 ffmpeg-python   # Not required only if u want to use music commands
 yt-dlp          # Not required only if u want to use music commands
 wavelink        # Not required only if u want to use music commands
-sqlite3
